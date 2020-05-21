@@ -7,7 +7,7 @@ The shaped pieces (tetrominoes) are rotated by the UP, DOWN, RIGHT, LEFT keys.
 ![screenshot](https://github.com/OBerger96/tetris-game/blob/master/images/tetris1.jpeg)
 
 ## Getting Started
-Copy he project on your local java project:
+Copy the project on your local java project:
 Clone with SSH 
 ```
 git@github.com:OBerger96/tetris-game.git
