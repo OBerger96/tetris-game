@@ -1,4 +1,4 @@
-# tetris-game
+# My Tetris game
 Build a Tetris game, using JavaFX, where human players can play and try to break records of themselves. 
 The shaped pieces (tetrominoes) are rotated by the UP, DOWN, RIGHT, LEFT keys.
  
